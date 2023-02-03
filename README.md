@@ -11,7 +11,7 @@ Execute o comando npm start para iniciar a aplicação
 A aplicação será iniciada em http://localhost:3000.
 
 Deploy
-O projeto está hospedado no Netlify e pode ser acessado em: whatslab-project.surge.sh
+O projeto está hospedado no Netlify e pode ser acessado em: https://whatslab-project.surge.sh/
 
 Como funciona
 Este projeto contém exemplos simples de uso do Flexbox e Grid Layout para criar layouts interessantes e responsivos. Sinta-se livre para explorar o código e personalizá-lo de acordo com suas necessidades.
